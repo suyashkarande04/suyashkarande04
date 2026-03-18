@@ -1,6 +1,6 @@
 ### Hi there, I'm Suyash 👋
 
-I am a BTech student passionate about bridging the gap between software and hardware. As the Co-Convener of the Robotics and Aero Club at DY Patil International University, I am actively diving into UAVs, drones, and embedded systems. 
+I am a BTech student passionate about bridging the gap between software and hardware. I am actively diving into UAVs, drones, and embedded systems. 
 
 **🚀 What I'm up to:**
 * 🛠️ Building the structural and technical foundation for our new college Robotics & Aeronautics club.
