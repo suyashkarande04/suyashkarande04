@@ -25,8 +25,8 @@ When I'm not studying or researching the latest robotics news, you can usually f
 ### 📊 GitHub Stats
 *(Note: Replace `YOUR_GITHUB_USERNAME` in the links below with your actual GitHub username to make these cards work!)*
 
-![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashkarande04&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashkarande04&layout=compact&theme=tokyonight)
 
 ---
 📫 **Connect with me:**
