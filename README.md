@@ -23,7 +23,6 @@ When I'm not studying or researching the latest robotics news, you can usually f
 * 🎮 Gaming 24x7 (A massive passion of mine when I'm off the clock!).
 
 ### 📊 GitHub Stats
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the links below with your actual GitHub username to make these cards work!)*
 
 ![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashkarande04&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashkarande04&layout=compact&theme=tokyonight)
