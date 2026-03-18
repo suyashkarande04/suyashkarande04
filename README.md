@@ -1,8 +1,13 @@
-<h1 align="center">Hi there, I'm Suyash 👋</h1>
-<h3 align="center">A passionate BTech student at DYPIU, exploring UAVs, Embedded Systems, and Flight Controllers.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0_6366f1,50_8b5cf6,100_d946ef&height=250&section=header&text=Suyash%20Karande&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Robotics%20/%20UAVs%20/%20Embedded%20Systems&descAlignY=55&descAlign=60&fontColor=ffffff" />
+</div>
+
+<h2 align="center">
+  Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Suyash
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Robotics+%26+Aeronautics+Enthusiast;UAVs+%26+Flight+Dynamics+Researcher;Embedded+Systems+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Passionate+about+Hardware-Software+Integration;Diving+into+Mechanics+%26+Aeronautics;Researching+Flight+Dynamics+%26+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,62 +17,89 @@
   <a href="mailto:20240802424@dypiu.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/suyashkarande04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</div>
+<br>
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/suyashkarande04/suyashkarande04/main/drone.gif" alt="drone animation" onerror="this.onerror=null; this.src='https://cdn.dribbble.com/users/1068771/screenshots/6255955/drone_dribble.gif';" />
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3 style="color:#8b5cf6;">👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 <strong>BTech student</strong> at <strong>DY Patil International University</strong>.</li>
+        <li>🚁 Deeply passionate about <strong>hardware-software integration</strong>.</li>
+        <li>🔭 Actively researching <strong>flight dynamics, drone infrastructure, and automation</strong>.</li>
+        <li>💡 Diving deep into the mechanics and code behind <strong>Robotics</strong> and <strong>Aeronautics</strong>.</li>
+        <li>⚡ <strong>Fun fact:</strong> When I'm not studying, I'm either ✈️ flying <strong>RC planes</strong> or 🎮 <strong>gaming 24x7!</strong></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250px" alt="Boy Coding on PC"/>
+    </td>
+  </tr>
+</table>
 
-### 👨‍💻 About Me
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</div>
+<br>
 
-- 🎓 I am a **BTech student** at **DY Patil International University**.
-- 🚁 Deeply passionate about bridging the gap between software and physical machines.
-- 🔭 I’m currently diving deep into the mechanics and code behind **Robotics** and **Aeronautics**.
-- 🌱 I’m actively researching **flight dynamics, drone infrastructure, and automation**.
-- 🚀 Building a solid foundation for complex **hardware-software integration**.
-- ⚡ **Fun fact:** When I'm not studying or researching the latest robotics news, you can find me flying RC planes (✈️) or gaming 24x7! (🎮)
+<h3 align="center" style="color:#8b5cf6;">🛠️ My Arsenal</h3>
 
-<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>💻 Languages</b></td>
+    <td align="center" width="33%"><b>⚙️ Hardware & IoT</b></td>
+    <td align="center" width="33%"><b>🎨 Design & CAD</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /><br>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
+      <br>
+      <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=matlab,autocad" /><br>
+      <br>
+      <img src="https://img.shields.io/badge/SolidWorks-E32227?style=flat-square&logo=solidworks&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack & Tools
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</div>
+<br>
 
-**Languages**<br/>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-**Hardware & Microcontrollers**<br/>
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-</p>
-
-**Software & Design**<br/>
-<p>
-  <img src="https://img.shields.io/badge/AutoCAD-DF2A2A?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-E32227?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<h3 align="center" style="color:#8b5cf6;">🏆 GitHub Trophies & Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashkarande04&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Suyash's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashkarande04&theme=tokyonight" alt="Suyash's GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashkarande04&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashkarande04&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suyashkarande04&show_icons=true&title_color=8B5CF6&text_color=A78BFA&icon_color=6366F1&bg_color=0D1117&border_radius=15&border_color=4C1D95&cache_seconds=86400" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashkarande04&theme=radical&border_radius=15&background=0D1117" alt="Streak" width="48%" />
 </p>
-
----
 
 <p align="center">
-  <img src="http://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashkarande04&layout=compact&title_color=8B5CF6&text_color=A78BFA&icon_color=6366F1&bg_color=0D1117&border_radius=15&border_color=4C1D95&cache_seconds=86400&hide_border=false" alt="Top Langs" />
 </p>
+
+<!-- Broken Quotes Removed -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0_6366f1,50_8b5cf6,100_d946ef&height=100&section=footer" />
+</div>
